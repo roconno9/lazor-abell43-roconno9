@@ -31,4 +31,7 @@ Then the inventory of blocks that are able to be used, the laser positions, and 
 * L then the traits for the lasers (can have multiple)
 * P then the locatios for the points that must be intercepted (can have multiple)
 
-The Lazors solver will place the available blocks and check to see how that influences the board state until a correct solution is found. (SUBJECT TO CHANGE)
+The Lazors solver will place the available blocks and check to see how that influences the board state until a correct solution is found.
+
+### 3. Code Functioning
+To run the code, you can simply change the final_solution_generator function where the puzzle file name is located.
